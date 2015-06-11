@@ -51,7 +51,11 @@ GEM
       mime-types (>= 1.16, < 3)
     mime-types (2.6.1)
     minitest (5.7.0)
+<<<<<<< HEAD
     multi_json (1.11.1)
+=======
+    multi_json (1.11.0)
+>>>>>>> d71a9c78194780abe91a9f592cd0440710171181
     rack (1.5.3)
     rack-test (0.6.3)
       rack (>= 1.0)
